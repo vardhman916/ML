@@ -1,0 +1,7 @@
+gender,group,parental_level,lunch,test_prep,math_score,reading_score,writing_score
+female,C,bachelor's degree,standard,completed,88,91,58
+female,C,bachelor's degree,standard,none,59,58,77
+female,B,bachelor's degree,standard,none,72,72,84
+female,D,bachelor's degree,standard,none,70,70,70
+female,C,associate's degree,standard,completed,96,97,54
+female,D,some college,free,none,91,93,57
