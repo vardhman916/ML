@@ -17,9 +17,8 @@ exc_tb: The traceback object (used here).'''
 
 class CustomException(Exception):
     def __init__(self,error_message,error_details:sys):
-        super().__init__(str(error_message))
         self.error_message = error_message_detail(error_message,error_details)
-
+        super().__init__(str(error_message))
 
     def __str__(self):
         return self.error_message
